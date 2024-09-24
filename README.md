@@ -295,7 +295,7 @@ Un grand merci à toutes les communautés et développeurs qui mettent à dispos
 
 Pour toute question ou suggestion, n'hésitez pas à nous contacter via :
 
-- **Discord** : [https://discord.gg/uYTmfrUyUv]
-- **Site Web** : [patreon.com/Eztopy](patreon.com/Eztopy)
+- **Discord** : [Osint Serveur](https://discord.gg/uYTmfrUyUv)
+- **Patreon** : [Patreon Eztopy](patreon.com/Eztopy)
 
 ---
